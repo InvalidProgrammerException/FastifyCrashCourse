@@ -1,0 +1,2 @@
+### GET ALL ITEMS
+GET http://[::1]:5001/items HTTP/1.1
